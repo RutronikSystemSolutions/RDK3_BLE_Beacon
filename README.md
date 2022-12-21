@@ -8,7 +8,7 @@ This code example is for the RDK3 Bluetooth® LE testing as an Eddystone Beacon.
 
 ## Requirements
 
-- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v2.4
+- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v3.0
 
 ## The Provisioning of the RDK3
 
